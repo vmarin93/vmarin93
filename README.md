@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vmarin93
 - 👀 I’m interested in tech, finance, film/tv production
-- 🌱 I’m currently learning: CS50X
+- 🌱 I’m currently learning: C at 42 London
 - 💞️ I’m looking to collaborate on: nothing really at the moment.
 - 📫 How to reach me: best bet, instagram @vasilemarin
 
