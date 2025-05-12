@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vasile -> @vmarin93
 - 👀 I am interested in software development(with a particular incline towards back-end) and finance(personal finance, money management)
 - 🌱 I’m currently learning: back-end development on Boot.Dev
-- 💞️ I’m looking to collaborate on: nothing really at the moment.
 - 📫 How to reach me: I am on X @vasilemarin93
 
 <!---
