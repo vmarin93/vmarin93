@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vmarin93
-- 👀 I’m interested in tech, finance, film/tv production
-- 🌱 I’m currently learning: C at 42 London
+- 👋 Hi, I’m Vasile -> @vmarin93
+- 👀 I am interested in software development(with a particular incline towards back-end) and finance(personal finance, money management)
+- 🌱 I’m currently learning: back-end development on Boot.Dev
 - 💞️ I’m looking to collaborate on: nothing really at the moment.
-- 📫 How to reach me: best bet, instagram @vasilemarin
+- 📫 How to reach me: I am on X @vasilemarin93
 
 <!---
 vmarin93/vmarin93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
